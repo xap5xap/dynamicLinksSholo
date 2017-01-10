@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "888002346966",
+    "firebase_url": "https://ur-money-staging.firebaseio.com",
+    "project_id": "ur-money-staging",
+    "storage_bucket": "ur-money-staging.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888002346966:android:da33786564da2192",
+        "android_client_info": {
+          "package_name": "sholo.thexap.com.dynamiclinkssholo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888002346966-vmgv55r1sij52bue3ln74dhgf1fitqd9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sholo.thexap.com.dynamiclinkssholo",
+            "certificate_hash": "590C62B771587B1D168F16ED48B1D271F456A213"
+          }
+        },
+        {
+          "client_id": "888002346966-t02mtg0rvmek9l8gnu2uo0io6lgaa08t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr6EbcRbEHi0thcd-u6oHbd0-8gFNcDMY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888002346966-t02mtg0rvmek9l8gnu2uo0io6lgaa08t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
